@@ -22,4 +22,4 @@ Sempre em busca de inovação, gosto de explorar como a programação pode trans
 
 Estou sempre pronto para aprender e enfrentar novos desafios!
 
-![Snake animation](https://raw.githubusercontent.com/NRibeiro1/NRibeiro1/output/github-snake.svg)
+![Snake animation dark](https://raw.githubusercontent.com/NRibeiro1/NRibeiro1/output/github-snake-dark.svg?palette=github-dark)
