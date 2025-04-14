@@ -15,13 +15,5 @@
  <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 </div>
 
----
-
-## 🐍 Meu gráfico de contribuições animado
-
-![Snake animation](https://github.com/NRibeiro1/NRibeiro1/blob/output/github-contribution-grid-snake.svg)
-
----
-
 Sempre em busca de inovação, gosto de explorar como a programação pode transformar experiências, seja no mundo dos games ou no dia a dia.  
 Estou sempre pronto para aprender e enfrentar novos desafios!
