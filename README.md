@@ -17,5 +17,7 @@
  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
+
 Sempre em busca de inovação, gosto de explorar como a programação pode transformar experiências, seja no mundo dos games ou no dia a dia.  
+
 Estou sempre pronto para aprender e enfrentar novos desafios!
