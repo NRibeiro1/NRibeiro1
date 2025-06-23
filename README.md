@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasribeirotech)
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NRibeiro1&show_icons=true&theme=onedark)
+![Nicolas GitHub stats](https://imagens.net.br/wp-content/uploads/2024/07/explore-os-melhores-gifs-de-computador-para-programadores-e-amantes-de-tecnologia-12.gif)
 
 ---
 
